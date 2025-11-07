@@ -15,6 +15,7 @@ It manages **Organizations**, **Users**, and **Files** with upload/download func
 -  Basic error handling included
 
 ##  Project Structure
+```
 project/
 ├── src/
 │ ├── config/
@@ -56,10 +57,12 @@ git clone https://github.com/SureNarendra341/Algorithm-assignment.git
 npm install
 
 ### Create .env file
+```
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
 
 ### Run the server
+```
 npm run dev
 
 MongoDB connected
