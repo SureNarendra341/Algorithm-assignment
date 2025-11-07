@@ -61,7 +61,6 @@ MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
 
 ### Run the server
-```
 npm run dev
 
 MongoDB connected
