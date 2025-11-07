@@ -57,7 +57,6 @@ git clone https://github.com/SureNarendra341/Algorithm-assignment.git
 npm install
 
 ### Create .env file
-```
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
 
